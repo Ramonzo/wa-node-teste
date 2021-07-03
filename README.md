@@ -1,5 +1,6 @@
 
 # WA-DEV-TEST
+Heroku endpoint: https://wa-node-teste.herokuapp.com/
 ### Teste wa-teste rz220465
 * Construir uma API para manutenção de laboratórios e exames.
 ---

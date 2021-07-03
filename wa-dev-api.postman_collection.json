@@ -14,12 +14,13 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:3000/",
-							"protocol": "http",
+							"raw": "https://wa-node-teste.herokuapp.com/",
+							"protocol": "https",
 							"host": [
-								"localhost"
+								"wa-node-teste",
+								"herokuapp",
+								"com"
 							],
-							"port": "3000",
 							"path": [
 								""
 							]
@@ -38,12 +39,13 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:3000/lab",
-							"protocol": "http",
+							"raw": "https://wa-node-teste.herokuapp.com/lab",
+							"protocol": "https",
 							"host": [
-								"localhost"
+								"wa-node-teste",
+								"herokuapp",
+								"com"
 							],
-							"port": "3000",
 							"path": [
 								"lab"
 							]
@@ -66,12 +68,13 @@
 							}
 						},
 						"url": {
-							"raw": "http://localhost:3000/lab",
-							"protocol": "http",
+							"raw": "https://wa-node-teste.herokuapp.com/lab",
+							"protocol": "https",
 							"host": [
-								"localhost"
+								"wa-node-teste",
+								"herokuapp",
+								"com"
 							],
-							"port": "3000",
 							"path": [
 								"lab"
 							]
@@ -94,12 +97,13 @@
 							}
 						},
 						"url": {
-							"raw": "http://localhost:3000/lab/register",
-							"protocol": "http",
+							"raw": "https://wa-node-teste.herokuapp.com/lab/register",
+							"protocol": "https",
 							"host": [
-								"localhost"
+								"wa-node-teste",
+								"herokuapp",
+								"com"
 							],
-							"port": "3000",
 							"path": [
 								"lab",
 								"register"
@@ -123,12 +127,13 @@
 							}
 						},
 						"url": {
-							"raw": "http://localhost:3000/lab/restore",
-							"protocol": "http",
+							"raw": "https://wa-node-teste.herokuapp.com/lab/restore",
+							"protocol": "https",
 							"host": [
-								"localhost"
+								"wa-node-teste",
+								"herokuapp",
+								"com"
 							],
-							"port": "3000",
 							"path": [
 								"lab",
 								"restore"
@@ -152,12 +157,13 @@
 							}
 						},
 						"url": {
-							"raw": "http://localhost:3000/lab/update",
-							"protocol": "http",
+							"raw": "https://wa-node-teste.herokuapp.com/lab/update",
+							"protocol": "https",
 							"host": [
-								"localhost"
+								"wa-node-teste",
+								"herokuapp",
+								"com"
 							],
-							"port": "3000",
 							"path": [
 								"lab",
 								"update"
@@ -181,12 +187,13 @@
 							}
 						},
 						"url": {
-							"raw": "http://localhost:3000/lab/remove",
-							"protocol": "http",
+							"raw": "https://wa-node-teste.herokuapp.com/lab/remove",
+							"protocol": "https",
 							"host": [
-								"localhost"
+								"wa-node-teste",
+								"herokuapp",
+								"com"
 							],
-							"port": "3000",
 							"path": [
 								"lab",
 								"remove"
@@ -206,12 +213,13 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:3000/exam",
-							"protocol": "http",
+							"raw": "https://wa-node-teste.herokuapp.com/exam",
+							"protocol": "https",
 							"host": [
-								"localhost"
+								"wa-node-teste",
+								"herokuapp",
+								"com"
 							],
-							"port": "3000",
 							"path": [
 								"exam"
 							]
@@ -234,12 +242,13 @@
 							}
 						},
 						"url": {
-							"raw": "http://localhost:3000/exam",
-							"protocol": "http",
+							"raw": "https://wa-node-teste.herokuapp.com/exam",
+							"protocol": "https",
 							"host": [
-								"localhost"
+								"wa-node-teste",
+								"herokuapp",
+								"com"
 							],
-							"port": "3000",
 							"path": [
 								"exam"
 							]
@@ -262,12 +271,13 @@
 							}
 						},
 						"url": {
-							"raw": "http://localhost:3000/exam/register",
-							"protocol": "http",
+							"raw": "https://wa-node-teste.herokuapp.com/exam/register",
+							"protocol": "https",
 							"host": [
-								"localhost"
+								"wa-node-teste",
+								"herokuapp",
+								"com"
 							],
-							"port": "3000",
 							"path": [
 								"exam",
 								"register"
@@ -291,12 +301,13 @@
 							}
 						},
 						"url": {
-							"raw": "http://localhost:3000/exam/restore",
-							"protocol": "http",
+							"raw": "https://wa-node-teste.herokuapp.com/exam/restore",
+							"protocol": "https",
 							"host": [
-								"localhost"
+								"wa-node-teste",
+								"herokuapp",
+								"com"
 							],
-							"port": "3000",
 							"path": [
 								"exam",
 								"restore"
@@ -320,12 +331,13 @@
 							}
 						},
 						"url": {
-							"raw": "http://localhost:3000/exam/update",
-							"protocol": "http",
+							"raw": "https://wa-node-teste.herokuapp.com/exam/update",
+							"protocol": "https",
 							"host": [
-								"localhost"
+								"wa-node-teste",
+								"herokuapp",
+								"com"
 							],
-							"port": "3000",
 							"path": [
 								"exam",
 								"update"
@@ -349,12 +361,13 @@
 							}
 						},
 						"url": {
-							"raw": "http://localhost:3000/exam/associate",
-							"protocol": "http",
+							"raw": "https://wa-node-teste.herokuapp.com/exam/associate",
+							"protocol": "https",
 							"host": [
-								"localhost"
+								"wa-node-teste",
+								"herokuapp",
+								"com"
 							],
-							"port": "3000",
 							"path": [
 								"exam",
 								"associate"
@@ -378,12 +391,13 @@
 							}
 						},
 						"url": {
-							"raw": "http://localhost:3000/exam/desassociate",
-							"protocol": "http",
+							"raw": "https://wa-node-teste.herokuapp.com/exam/desassociate",
+							"protocol": "https",
 							"host": [
-								"localhost"
+								"wa-node-teste",
+								"herokuapp",
+								"com"
 							],
-							"port": "3000",
 							"path": [
 								"exam",
 								"desassociate"
@@ -410,12 +424,13 @@
 							}
 						},
 						"url": {
-							"raw": "http://localhost:3000/exam/search/lab",
-							"protocol": "http",
+							"raw": "https://wa-node-teste.herokuapp.com/exam/search/lab",
+							"protocol": "https",
 							"host": [
-								"localhost"
+								"wa-node-teste",
+								"herokuapp",
+								"com"
 							],
-							"port": "3000",
 							"path": [
 								"exam",
 								"search",
@@ -440,12 +455,13 @@
 							}
 						},
 						"url": {
-							"raw": "http://localhost:3000/exam/remove",
-							"protocol": "http",
+							"raw": "https://wa-node-teste.herokuapp.com/exam/remove",
+							"protocol": "https",
 							"host": [
-								"localhost"
+								"wa-node-teste",
+								"herokuapp",
+								"com"
 							],
-							"port": "3000",
 							"path": [
 								"exam",
 								"remove"
@@ -474,12 +490,13 @@
 							}
 						},
 						"url": {
-							"raw": "http://localhost:3000/lab/register",
-							"protocol": "http",
+							"raw": "https://wa-node-teste.herokuapp.com/lab/register",
+							"protocol": "https",
 							"host": [
-								"localhost"
+								"wa-node-teste",
+								"herokuapp",
+								"com"
 							],
-							"port": "3000",
 							"path": [
 								"lab",
 								"register"
@@ -503,12 +520,13 @@
 							}
 						},
 						"url": {
-							"raw": "http://localhost:3000/lab/update",
-							"protocol": "http",
+							"raw": "https://wa-node-teste.herokuapp.com/lab/update",
+							"protocol": "https",
 							"host": [
-								"localhost"
+								"wa-node-teste",
+								"herokuapp",
+								"com"
 							],
-							"port": "3000",
 							"path": [
 								"lab",
 								"update"
@@ -532,12 +550,13 @@
 							}
 						},
 						"url": {
-							"raw": "http://localhost:3000/lab/remove",
-							"protocol": "http",
+							"raw": "https://wa-node-teste.herokuapp.com/lab/remove",
+							"protocol": "https",
 							"host": [
-								"localhost"
+								"wa-node-teste",
+								"herokuapp",
+								"com"
 							],
-							"port": "3000",
 							"path": [
 								"lab",
 								"remove"
@@ -566,12 +585,13 @@
 							}
 						},
 						"url": {
-							"raw": "http://localhost:3000/exam/register",
-							"protocol": "http",
+							"raw": "https://wa-node-teste.herokuapp.com/exam/register",
+							"protocol": "https",
 							"host": [
-								"localhost"
+								"wa-node-teste",
+								"herokuapp",
+								"com"
 							],
-							"port": "3000",
 							"path": [
 								"exam",
 								"register"
@@ -595,12 +615,13 @@
 							}
 						},
 						"url": {
-							"raw": "http://localhost:3000/exam/update",
-							"protocol": "http",
+							"raw": "https://wa-node-teste.herokuapp.com/exam/update",
+							"protocol": "https",
 							"host": [
-								"localhost"
+								"wa-node-teste",
+								"herokuapp",
+								"com"
 							],
-							"port": "3000",
 							"path": [
 								"exam",
 								"update"
@@ -624,12 +645,13 @@
 							}
 						},
 						"url": {
-							"raw": "http://localhost:3000/exam/remove",
-							"protocol": "http",
+							"raw": "https://wa-node-teste.herokuapp.com/exam/remove",
+							"protocol": "https",
 							"host": [
-								"localhost"
+								"wa-node-teste",
+								"herokuapp",
+								"com"
 							],
-							"port": "3000",
 							"path": [
 								"exam",
 								"remove"
