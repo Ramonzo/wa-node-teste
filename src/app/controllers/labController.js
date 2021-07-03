@@ -112,7 +112,7 @@ class LabController {
                     ]
             }, function (err, doc) {
                 if (err)
-                    return res.status(500).send({ error: '001', message: 'Algo deu errado.' });
+                    return res.status(500).send({ error: '001', message: 'Não conseguimos resgatar o registro.' });
                 //
                 return res.status(200).send({ error: '', message: '', data: doc });
             });
@@ -134,7 +134,7 @@ class LabController {
                     }
                 }, function (error) {
                     if (error)
-                        return res.status(500).send({ error: '011', message: 'Algo deu errado.' });
+                        return res.status(500).send({ error: '011', message: 'Não conseguimos remover os registros.' });
                     //
                     return res.status(200).send({ error: '', message: 'Registros removidos.' });
                 });
