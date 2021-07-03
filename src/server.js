@@ -11,7 +11,7 @@ class App {
         this.middlewares();
         this.routes();
         //
-        this.express.listen(3000, () =>
+        this.express.listen(process.env.PORT || 3000, () =>
             console.log(`online...`)
         );
     }
